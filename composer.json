@@ -1,0 +1,16 @@
+{
+    "name": "virtualorz/pagination",
+    "authors": [
+        {
+            "name": "virtualorz",
+            "email": "virtualorz@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Virtualorz\\Pagination\\": "src/"
+        }
+    }
+}
